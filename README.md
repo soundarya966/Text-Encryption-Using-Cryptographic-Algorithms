@@ -28,3 +28,8 @@ inputs by using a random IV and salt.
 ## How to Run
 ```bash
 node encryption.js
+
+## Learning Outcomes
+- Symmetric encryption basics
+- IV and salt usage
+- Secure key derivation
